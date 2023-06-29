@@ -1,0 +1,32 @@
+.row {
+    align-items: center;
+}
+
+.col-sm-4 {
+    display: flex;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.modal-content {
+    text-align: center;
+}
+
+.modal-image-url {
+    margin-bottom: 10px;
+}
+
+.collection-container {
+    background-color: red;
+}
+
+.bidButton {
+    color: white;
+    background: linear-gradient(to right, rgba(97,205,244, 0.5), rgba(36, 0, 144, 1));
+}

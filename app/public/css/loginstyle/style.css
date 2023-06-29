@@ -1,0 +1,46 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.login-form-container {
+    margin-top: 10%;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+main {
+    display: block;
+}
+
+.form-signin {
+    max-width: 300px;
+    padding: 15px;
+}
+
+.m-auto {
+    margin: auto!important;
+}
+
+.w-100 {
+    width: 100%!important;
+}
+
+.text-center {
+    text-align: center!important;
+}
+
+.form-floating {
+    margin-top: 10px;
+}
+
+.w-auto {
+    margin-top: 10px;
+}
+
+.login-button, .signup-button {
+    margin-top: 10px;
+}
+

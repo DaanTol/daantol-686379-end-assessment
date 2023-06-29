@@ -1,0 +1,13 @@
+header {
+    letter-spacing: 5px;
+    background-color: rgba(25, 0, 97, 0.5);
+}
+
+.btn {
+    border-color: rgba(53, 0, 211, 1);
+    background: linear-gradient(to right, rgba(97,205,244, 0.5), rgba(36, 0, 144, 1));
+}
+
+.nav li{
+    margin-right: 3rem;
+}
